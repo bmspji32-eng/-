@@ -12,6 +12,7 @@ MDD 20% 이하 조건에서 수수료·슬리피지 차감 후 거래당 기대�
   - `hypotheses.md`: 사전 등록된 가설과 검증 결과
   - `decisions.md`: 실제 적용한 변경과 쿨다운
   - `calibration.md`: 예측 적중률(메타인지)
+  - `settings.md`: 설정값 목록과 등급별 권장값
 - 보고서는 `reports/YYYY-MM-DD.md`에 저장한다.
 - 입력 데이터는 `data/raw/`에 둔다. 형식은 `data/README.md` 참고.
 
