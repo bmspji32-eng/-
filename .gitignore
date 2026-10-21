@@ -1,0 +1,14 @@
+# 비밀키 절대 커밋 금지
+.env
+*.key
+*secret*
+*credential*
+
+# 원본 거래 데이터는 로컬에만 보관 (원하면 이 줄을 지워 커밋 가능)
+data/raw/*
+!data/raw/.gitkeep
+
+__pycache__/
+*.pyc
+.venv/
+venv/
